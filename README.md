@@ -10,7 +10,7 @@ Playfest - Phone app that creates a Spotify playlist from taking a picture of a 
 
 GitCore - One page web app that searches and displays github users.
 
-Makers bnb - 
+Makers bnb -
 
 Thegoodfairy - Website to help London homeless, creates map of top 10 charity and services based of postcode
 
@@ -61,16 +61,19 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 **Off to Work, London** (October 2015 – December 2015)    
 *Ice Marshall at Natural History Museum Ice Rink*
 Ensure that customers are safeguarded from a health and
-safety perspective whilst skating on the ice rink  
+safety perspective whilst skating on the ice rink
+
 **Wrappers Delight, Bristol** (May 2015 – October 2015)   
 *Social Media Coordinator*
 Creating social media content to promote their festival
 catering business
+
 **LONDONTHEINSIDE, London** (July 2014 – December 2014)   
 *Digital Media Assistant*
 Managed their website
 Created weekly newsletters
 Wrote short feature articles
+
 **Captured on the Rye, London** (September 2014 – December 2014)   
 *Teaching Assistant*
 Assisted with screen printing classes for children
