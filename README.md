@@ -44,6 +44,8 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 
 ## Experience
 
+
+
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
