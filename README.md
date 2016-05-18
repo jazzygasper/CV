@@ -1,6 +1,6 @@
-## Your Name
+## Jasmina Gasper
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb - May 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,13 +32,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Central Saint Martins College, London (2011 - 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Awarded BA (Hons) Graphic Design
+Focus on Design and Interaction including; branding, web design, coding,
+typography, advertising, and photography
 
-#### Any other qualifications
+#### Other Qualifications
+
+Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL)
 
 ## Experience
 
