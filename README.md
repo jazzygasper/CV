@@ -39,22 +39,22 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 
 #### Various Part Time Roles (April 2013 – December 2015)
 
-**Off to Work, London** (October 2015 – December 2015)    
-*Ice Marshall at Natural History Museum Ice Rink*
+***Off to Work, London*** (October 2015 – December 2015)    
+**Ice Marshall at Natural History Museum Ice Rink**
 *Ensured the safety of the public while doing some sick tricks on the ice*
 
-**Wrappers Delight, Bristol** (May 2015 – October 2015)   
-*Social Media Coordinator & Wrapper*
+***Wrappers Delight, Bristol*** (May 2015 – October 2015)   
+**Social Media Coordinator & Wrapper**
 *Created social media content to promote festival catering business & made some killer wraps along the way*
 
-**LONDONTHEINSIDE, London** (July 2014 – December 2014)   
-*Digital Media Assistant*
+***LONDONTHEINSIDE, London*** (July 2014 – December 2014)   
+**Digital Media Assistant**
 *Managed their website
 Created weekly newsletters
 Wrote short feature articles*
 
-**Captured on the Rye, London** (September 2014 – December 2014)   
-*Teaching Assistant*
+***Captured on the Rye, London*** (September 2014 – December 2014)   
+**Teaching Assistant**
 *Assisted with screen printing Birthday parties for children
 Created social media content
 Rebranded their website*
