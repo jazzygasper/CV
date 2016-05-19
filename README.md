@@ -4,13 +4,16 @@ A creative junior developer/software engineer who is passionate and optimistic a
 
 ## Code Examples
 
-Playfest - Phone app that creates a Spotify playlist from taking a picture of a festival poster.
+Project Name | Description | Technologies | Testing
+--- | --- | --- | ---
 
-Recommend'n'Chill - Creates movie suggestion from an API based on manually entered list of watched movies.
+Playfest - Phone app that creates a Spotify playlist from taking a picture of a festival poster.|
 
-Makers bnb - Airbnb clone of basic features made in 5 days.
+Recommend'n'Chill - Creates movie suggestion from an API based on manually entered list of watched movies.|
 
-Thegoodfairy - Website to help the homeless in London, creates map of top 10 charity and services based on postcode.
+Makers bnb - Airbnb clone of basic features made in 5 days.|
+
+Thegoodfairy - Website to help the homeless in London, creates map of top 10 charity and services based on postcode.|
 
 ## Skills
 
