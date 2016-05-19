@@ -5,9 +5,7 @@ A creative junior developer/software engineer who is passionate and optimistic a
 ## Code Examples
 
 Project Name | Description | Technologies | Testing
---- | --- | --- | ---
-
-Playfest - Phone app that creates a Spotify playlist from taking a picture of a festival poster.|
+Playfest | Phone app that creates a Spotify playlist from taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
 
 Recommend'n'Chill - Creates movie suggestion from an API based on manually entered list of watched movies.|
 
