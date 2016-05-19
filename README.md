@@ -7,9 +7,9 @@ A creative junior developer/software engineer who is passionate and optimistic a
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
 [playfest](https://github.com/eripheebs/playfest) | Phone app that creates a Spotify playlist by taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
-[Recommend'n'Chill]() | Creates movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
-[Makers bnb]() | Airbnb clone of basic features made in 5 days. | Ruby, Sinatra, PostgreSQL | Rspec, Capybara
-[Thegoodfairy]() | University project: website to help the homeless in London, creates map of top 10 charity and services based on postcode. | Javascript | Jasmine
+[Recommend'n'Chill](https://github.com/gvonkoss/recommend-n-chill) | Creates movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
+[Makers bnb](https://github.com/eripheebs/makers_bnb) | Airbnb clone of basic features made in 5 days. | Ruby, Sinatra, PostgreSQL | Rspec, Capybara
+[Thegoodfairy](http://thegoodfairy.london/) | University project: website to help the homeless in London, creates map of top 10 charity and services based on postcode. | Javascript | Jasmine
 
 ## Skills
 
@@ -41,20 +41,24 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 
 **Off to Work, London** (October 2015 – December 2015)    
 *Ice Marshall at Natural History Museum Ice Rink*
+
 Ensured the safety of the public while doing some sick tricks on the ice
 
 **Wrappers Delight, Bristol** (May 2015 – October 2015)   
-*Social Media Coordinator & wrapper*
+*Social Media Coordinator & Wrapper*
+
 Created social media content to promote festival catering business & made some killer wraps along the way
 
 **LONDONTHEINSIDE, London** (July 2014 – December 2014)   
 *Digital Media Assistant*
+
 Managed their website
 Created weekly newsletters
 Wrote short feature articles
 
 **Captured on the Rye, London** (September 2014 – December 2014)   
 *Teaching Assistant*
+
 Assisted with screen printing Birthday parties for children
 Created social media content
 Rebranded their website
