@@ -10,9 +10,9 @@ Project Name | Description | Technologies | Testing
 
 [Recommend'n'Chill]() | Creates movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
 
-[Makers bnb]() | Airbnb clone of basic features made in 5 days.| Ruby, Sinatra, PostgreSQL | Rspec, Capybara
+[Makers bnb]() | Airbnb clone of basic features made in 5 days. | Ruby, Sinatra, PostgreSQL | Rspec, Capybara
 
-[Thegoodfairy]() | University project: website to help the homeless in London, creates map of top 10 charity and services based on postcode. | --- | --- 
+[Thegoodfairy]() | University project: website to help the homeless in London, creates map of top 10 charity and services based on postcode. | Javascript | Jasmine 
 
 ## Skills
 
