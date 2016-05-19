@@ -5,9 +5,10 @@ A creative junior developer/software engineer who is passionate and optimistic a
 ## Code Examples
 
 Project Name | Description | Technologies | Testing
-Playfest | Phone app that creates a Spotify playlist from taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
+--- | --- | --- | ---
+[playfest](https://github.com/eripheebs/playfest) | Phone app that creates a Spotify playlist from taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
 
-Recommend'n'Chill - Creates movie suggestion from an API based on manually entered list of watched movies.|
+[Recommend'n'Chill]() | Creates movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
 
 Makers bnb - Airbnb clone of basic features made in 5 days.|
 
