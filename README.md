@@ -15,7 +15,7 @@ Project Name | Description | Technologies | Testing
 
 #### Design
 
-At Central Saint Martins I majored in BA Graphic Design, specializing in Design and Interaction, with a focus on digital media and marketing. I am meticulous, with a keen visual sense and focus on getting the details correct. I believe my creativity and appreciation of visual aesthetics helps me to create beautiful and clean code. coder executing a brief, I am also full of ideas and motivated to create amazing experiences for different people.
+At Central Saint Martins I majored in BA Graphic Design, specializing in Design and Interaction, with a focus on digital media and marketing. I am meticulous, with a keen visual sense and focus on getting the details correct. I believe my creativity and appreciation of visual aesthetics helps me to create beautiful and clean code. I'm not just a coder executing a brief, I am also full of ideas and motivated to create amazing experiences for different people.
 
 <!-- #### Creativity
 
