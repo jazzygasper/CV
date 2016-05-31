@@ -48,7 +48,7 @@ Focus on Design and Interaction including branding, web design, typography, adve
 
 Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL).
 
-#### Various Part Time Roles (April 2013 – December 2015)
+#### Various Part Time Roles
 
 **Off to Work, London** (October 2015 – December 2015)    
 *Ice Marshall at Natural History Museum Ice Rink*<br>
