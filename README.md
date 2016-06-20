@@ -55,7 +55,7 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 Ensured the safety of the public while doing some sick tricks on the ice
 
 **Wrappers Delight, Bristol** (May 2015 – October 2015)   
-*Social Media Coordinator & Wrapper*<br>
+*Social Media Coordinator & Hummus Queen*<br>
 Created social media content to promote their festival catering business and made some killer wraps along the way
 
 **LONDONTHEINSIDE, London** (July 2014 – December 2014)   
