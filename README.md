@@ -42,29 +42,33 @@ Highly intensive and selective coding bootcamp.
 #### Central Saint Martins College, London (2011 – 2015)
 
 Awarded BA (Hons) Graphic Design<br>
-Focus on Design and Interaction including branding, web design, typography, advertising, and photography.
+Focus on Design and Interaction including branding, web design, typography, advertising, and photography
 
 #### Other Qualifications
 
-Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL).
+Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL)
 
 #### Various Part Time Roles
 
-**Off to Work, London** (October 2015 – December 2015)    
+**Off to Work, London** (October 2015–December 2015)    
 *Ice Marshall at Natural History Museum Ice Rink*<br>
 Ensured the safety of the public while doing some sick tricks on the ice
 
-**Wrappers Delight, Bristol** (May 2015 – October 2015)   
+**Wrappers Delight, Bristol** (May 2015–October 2015)   
 *Social Media Coordinator & Hummus Queen*<br>
 Created social media content to promote their festival catering business and made some killer wraps along the way
 
-**LONDONTHEINSIDE, London** (July 2014 – December 2014)   
+**Pearson Education, South Asia (May 2015–October 2015)**
+*Freelance Editor*
+Editing and proofreadin English language teaching materials for Vietnamese schools
+
+**LONDONTHEINSIDE, London** (July 2014–December 2014)   
 *Digital Media Assistant*<br>
 Managed their website<br>
 Created weekly newsletters<br>
 Wrote short feature articles<br>
 
-**Captured on the Rye, London** (September 2014 – December 2014)   
+**Captured on the Rye, London** (September 2014–December 2014)   
 *Teaching Assistant*<br>
 Assisted with screen printing Birthday parties for children<br>
 Created social media content<br>
