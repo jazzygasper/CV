@@ -58,8 +58,8 @@ Ensured the safety of the public while doing some sick tricks on the ice
 *Social Media Coordinator & Hummus Queen*<br>
 Created social media content to promote their festival catering business and made some killer wraps along the way
 
-**Pearson Education, South Asia** (May 2015–October 2015)
-*Freelance Editor*<br>
+**Pearson Education, South Asia** (May 2015–October 2015)    
+*Freelance Editor*    
 Editing and proofreadin English language teaching materials for Vietnamese schools<br>
 
 **LONDONTHEINSIDE, London** (July 2014–December 2014)   
