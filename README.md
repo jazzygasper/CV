@@ -21,9 +21,9 @@ I am the type of person who thinks outside the box. As someone who is creative o
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
 [Playfest](https://github.com/jazzygasper/playfest) | Phone app that creates a Spotify playlist by taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
-[Recommend'n'Chill](https://github.com/jazzygasper/recommend-n-chill) | Creates a movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
+[Recommend'n'Chill](https://github.com/jazzy/recommend-n-chill) | Creates a movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
 [Makers bnb](https://github.com/jazzygasper/makers_bnb) | Airbnb clone of basic features made in 5 days. | Ruby, Sinatra, PostgreSQL | Rspec, Capybara
-[Thegoodfairy](http://thegoodfairy.london/) | University project: website to help the homeless in London, creates a map of top 10 charities and services based on postcode. | Javascript |
+[Thegoodfairy](https://github.com/jazzygasper/thegoodfairy) | University project: website to help the homeless in London, creates a map of top 10 charities and services based on postcode. | Javascript, AngularJS | Karma, Protractor
 
 ## Education
 
