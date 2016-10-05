@@ -48,6 +48,14 @@ Focus on Design and Interaction including branding, web design, typography, adve
 
 Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL)
 
+## Experience
+
+### Volunteer
+
+**CodebarHQ, London** (October 2016–Present)    
+*Coach*    
+Helping LGBT and minorities learn how to code at one to one weekly workshops
+
 #### Various Part Time Roles
 
 **Off to Work, London** (October 2015–December 2015)    
