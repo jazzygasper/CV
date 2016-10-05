@@ -51,7 +51,7 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 ## Experience
 
 **CodebarHQ, London** (October 2016–Present)    
-*Volunteer coach*
+*Volunteer coach*    
 Helping LGBT and minorities learn how to code at one to one weekly workshops
 
 #### Various Part Time Roles
