@@ -1,4 +1,5 @@
 ## Jasmina Gasper
+jasmina.gasper@gmail.com
 
 A creative junior developer/software engineer who is excited and enthusiastic about the potential of technology. After recently graduating from Central Saint Martins and discovering my passion for coding, I invested a lot of time and effort at Makers Academy to develop my programming skills. I am now an ambitious coder and looking for a role that will help me grow as a developer.
 
