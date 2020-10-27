@@ -52,7 +52,7 @@ Obtained a preliminary certificate of Teaching English as a Foreign Language (TE
 ## Experience
 
 **AND Digital, London** (March 2017-April 2019)    
-*Associate AND Glitter Fairy*    
+*Software Developer AND Glitter Fairy*    
 Helping clients reach their digital aspirations.
 
 - Conde Nast International (Apr 2018 – March 2019)
