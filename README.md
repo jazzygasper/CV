@@ -1,30 +1,49 @@
 ## Jasmina Gasper
 
-An enthusiastic software developer who is excited about the potential of technology. I love to be creative and inventive, and learn new software skills quickly. After graduating from Central Saint Martins and discovering my passion for coding, I completed an intensive coding bootcamp at Makers Academy, which enabled me to work as part of a high-performing squad at AND Digital. An ambitious coder, I am now looking for a new role that will help me grow as a software developer.
+An enthusiastic software developer excited about technology and its potential to make positive change in the world. Having a background in Graphic Design, I value opportunities to think out of the box and express myself creatively, while my experience retraining at an intensive coding bootcamp made me an expert in picking up new software skills quickly. With a career spanning over 6 years, I've been instrumental in actively guiding and contributing to projects end-to-end in both global enterprises and emerging startups.
 
-<!-- ## Skills
+## Work Experience
 
-#### Design
+#### The LEGO Group, London (January 2023 – November 2023)
+Front End Developer
+Sparking joy with playful, inclusive experiences users can only have on LEGO.com.
+- Collaborated with product developers and designers to conceptualize, design, and build key interactive features on the LEGO website for high profile campaigns, such as the code breaker game and minifigure customiser for the 2023 Rebuild the World campaign, a gift finder tool for the holiday season, as well as the Disney castle window creator for the Disney 100th anniversary.
+- Implemented new livestreaming feature embedded on the LEGO website using Firework and enabling users to seamlessly add featured sets to their cart during the live broadcast.
+- Migrating codebase from JavaScript to TypeScript to improve code quality, maintainability, and developer productivity.
+- Created reusable components in React to be consumed by the component library with Storybook and used by teams across the company, streamlining development processes and enhancing consistency.
+- Used Contentstack and GraphQL to manage content for internationalization across 70+ locales worldwide to ensure a cohesive user experience across diverse global markets.
+- Enhanced the accessibility of custom components on the LEGO website, recognizing the importance of inclusive design, particularly through the implementation of keyboard navigation and refined focus styles.
+- Led technical refinement and effectively divided tasks into actionable tickets, overseeing their progression to ensure timely completion.
+- Rotated leadership responsibilities within the team, with each member taking turns facilitating key Scrum events such as Daily Standup, Backlog Refinement, Sprint Planning, and Sprint Retrospective.
 
-At Central Saint Martins I majored in BA Graphic Design, specializing in Design and Interaction, with a focus on digital media and marketing. I am meticulous, with a keen visual sense and focus on getting the details correct. I believe my creativity and appreciation of visual aesthetics helps me to create beautiful and clean code. I'm not just a coder executing a brief, I am also full of ideas and motivated to create amazing experiences for different people.
--->
+#### Banked, London/Remote (October 2019 – October 2022)
+Software Engineer (Customer Team)
+Building better digital banking solutions for consumers, businesses and banks.
 
-<!-- #### Creativity
+- Developed a hosted and embeddable checkout for merchants/clients to seamlessly integrate with their businesses. Built with React initially then rebuilt with web components using the Lit framework to make it more lightweight and easier to embed.
+- Drove improvements in conversion rates by employing a data-driven approach, continuously iterating on the checkout application based on key performance metrics.
+- Decreased time spent on manual checks by implementing cypress testing for the checkout, to be run locally and on browserstack for automated cross browser testing.
+- Increased test coverage by implementing service-level tests executed within a Docker pod environment across a complex set of microservices, leading to a more robust and reliable testing framework.
+- Maintained and improved on the merchant console built with Rails.
+- Created demo applications for different products used by the sales team in front of customers and investors.
+- Worked in a start up environment, quickly making prototypes and testing ideas to drive innovation and product development.
+- Facilitated interviews for mid and senior level developer roles, pushing for more diversity in the engineering team.
 
-I am the type of person who thinks outside the box. As someone who is creative on my feet, it helps me be an efficient problem-solver. I love to wrangle code and furnish the front-end to bring that idea to life.
+#### AND Digital, London (March 2017 – April 2019)
+Software Developer AND Glitter Fairy
+Helping clients reach their digital aspirations.
 
-#### Drive
+Conde Nast International (April 2018 – March 2019)
+- Front End Developer on Vogue Fashion Shows team
+- React web application with Next and Node.js middleware
+- Jest, cypress.io, CircleCI, docker, styled components
 
- -->
+Internal Project (February – March 2018)
+- Vue.js chatbot
 
-<!-- ## Code Examples
-
-Project Name | Description | Technologies | Testing
---- | --- | --- | ---
-[Playfest](https://github.com/jazzygasper/playfest) | Phone app that creates a Spotify playlist by taking a picture of a festival poster. | Javascript, Express, Node.js, Ionic | Karma, Mocha, Protractor
-[Open Index](https://github.com/LGBT-hackers/open_index) | Ranks companies on overall LGBT+ eperience in the workplace based off reviews made by users. | Ruby on Rails, PostgreSQL | Rspec
-[Recommend'n'Chill](https://github.com/jazzygasper/recommend-n-chill) | Creates a movie suggestion from an API based on manually entered list of watched movies. | Javascript, Ruby, Angular JS, Rails | Rspec, Karma, Protractor
-[Thegoodfairy](https://thegoodfairy.herokuapp.com/) | University project: website to help the homeless in London, creates a map of top 10 charities and services based on postcode. | Javascript, AngularJS | Karma, Protractor -->
+Talk Talk (July 2017 – January 2018)
+- Front End Developer working on an Angular web application
+- Jasmine, styled components
 
 ## Education
 
