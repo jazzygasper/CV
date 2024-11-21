@@ -5,7 +5,7 @@ An enthusiastic software developer excited about technology and its potential to
 ## Work Experience
 
 #### The LEGO Group, London (January 2023 – November 2023)
-Front End Developer
+*Front End Developer*
 Sparking joy with playful, inclusive experiences users can only have on LEGO.com.
 - Collaborated with product developers and designers to conceptualize, design, and build key interactive features on the LEGO website for high profile campaigns, such as the code breaker game and minifigure customiser for the 2023 Rebuild the World campaign, a gift finder tool for the holiday season, as well as the Disney castle window creator for the Disney 100th anniversary.
 - Implemented new livestreaming feature embedded on the LEGO website using Firework and enabling users to seamlessly add featured sets to their cart during the live broadcast.
@@ -17,9 +17,8 @@ Sparking joy with playful, inclusive experiences users can only have on LEGO.com
 - Rotated leadership responsibilities within the team, with each member taking turns facilitating key Scrum events such as Daily Standup, Backlog Refinement, Sprint Planning, and Sprint Retrospective.
 
 #### Banked, London/Remote (October 2019 – October 2022)
-Software Engineer (Customer Team)
+*Software Engineer (Customer Team)*
 Building better digital banking solutions for consumers, businesses and banks.
-
 - Developed a hosted and embeddable checkout for merchants/clients to seamlessly integrate with their businesses. Built with React initially then rebuilt with web components using the Lit framework to make it more lightweight and easier to embed.
 - Drove improvements in conversion rates by employing a data-driven approach, continuously iterating on the checkout application based on key performance metrics.
 - Decreased time spent on manual checks by implementing cypress testing for the checkout, to be run locally and on browserstack for automated cross browser testing.
@@ -30,9 +29,8 @@ Building better digital banking solutions for consumers, businesses and banks.
 - Facilitated interviews for mid and senior level developer roles, pushing for more diversity in the engineering team.
 
 #### AND Digital, London (March 2017 – April 2019)
-Software Developer AND Glitter Fairy
+*Software Developer AND Glitter Fairy*
 Helping clients reach their digital aspirations.
-
 Conde Nast International (April 2018 – March 2019)
 - Front End Developer on Vogue Fashion Shows team
 - React web application with Next and Node.js middleware
@@ -68,31 +66,11 @@ Focus on Design and Interaction including branding, web design, typography, adve
 
 Obtained a preliminary certificate of Teaching English as a Foreign Language (TEFL)
 
-## Experience
-
-**AND Digital, London** (March 2017-April 2019)    
-*Software Developer AND Glitter Fairy*    
-Helping clients reach their digital aspirations.
-
-- Conde Nast International (Apr 2018 – March 2019)
-  - Front End Developer on Vogue Fashion Shows team
-  - React web application with Next and Node.js middleware
-  - Jest, cypress.io, CircleCI, docker, styled components
-
-
-- Internal Project (Feb 2018 – March 2018)
-  - Creating a chatbot using Vue.js
-
-
-- Talk Talk (July 2017 – Jan 2018)
-  - Front End Developer working on an Angular web application
-  - Jasmine, styled components
+#### Various Part Time Roles
 
 **CodebarHQ, London** (October 2016–Present)    
 *Volunteer coach*    
 Helping LGBT and minorities learn how to code at one to one weekly workshops
-
-#### Various Part Time Roles
 
 <!-- **Off to Work, London** (October 2015–December 2015)    
 *Ice Marshall at Natural History Museum Ice Rink*    
